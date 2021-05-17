@@ -176,7 +176,7 @@ html,body{
 	text-align: justify;
 	
 }
-/*
+
 .arrow{
 	position: relative;
 	top: 0px;
@@ -187,7 +187,7 @@ html,body{
 	background-image: url(/images/chevron-circle-down-solid.svg);
 	background-size: 100% 100%;
 	cursor: pointer;
-	background-color: #4A5097;
+	
 	border-radius: 50%;
 	
 }
@@ -208,14 +208,14 @@ html,body{
 	background-image: url(/images/chevron-circle-up-solid.svg);
 	background-size: 100% 100%;
 	cursor: pointer;
-	background-color: #4A5097;
+	
 	border-radius: 50%;
 }
 
 .arrow2:hover{
 	background-image: url(/images/arrow-circle-up-solid.svg);
 }
-*/
+
 
 .section-1{
 	
